@@ -67,7 +67,7 @@ var obj =
 		
 		"publications": [
 			{
-				"value": "https://www.artworkarchive.com/",
+				"value": "https://artloversaustralia.com.au/blog/",
 				"label": "blog",
 				"protocol": "https"
 			},
