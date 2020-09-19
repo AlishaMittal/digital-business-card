@@ -17,7 +17,7 @@ var obj =
 	"department": "Creative Artist",
 
 	"columns": {
-		"1": ["phone", "publications", "other","mail"],
+		"1": ["phone", "publications","mail"],
 		"2": ["social", "",            "",     "qrcode"]
 	},
 	
@@ -28,10 +28,6 @@ var obj =
 				"label": "mobile",
 				"microformatTag": "mobile",
 				"vcfTag": "mobile" 
-			},
-			{
-				"value": "alisha.mittal96@gmail.com",
-				"label": "facetime"
 			},
 			{
 				"value": "AlishaMittal",
