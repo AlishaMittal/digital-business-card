@@ -30,7 +30,7 @@ var obj =
 				"vcfTag": "mobile" 
 			},
 			{
-				"value": "AlishaMittal",
+				"value": "https://hangouts.google.com/call/OSaYRe3oM5bRHTqNrxZcACEM",
 				"label": "hangouts"
 			},
 			{
@@ -63,7 +63,7 @@ var obj =
 		
 		"publications": [
 			{
-				"value": "https://creativemarket.com/blog/introducing-our-color-of-the-season-honey-dijon",
+				"value": "https://www.brhoward.com/new-blog/category/Public+Art",
 				"label": "blog",
 				"protocol": "https"
 			},
