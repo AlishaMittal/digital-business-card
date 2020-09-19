@@ -67,7 +67,7 @@ var obj =
 		
 		"publications": [
 			{
-				"value": "https://www.artworkarchive.com/profile/alisha-mittal",
+				"value": "https://www.artworkarchive.com/",
 				"label": "blog",
 				"protocol": "https"
 			},
