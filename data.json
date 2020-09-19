@@ -63,10 +63,6 @@ var obj =
 				"value": "AlishaMittal",
 				"label": "facebook"
 			},
-			{
-				"value": "AlishaMittal",
-				"label": "github"
-			}
 		],
 		
 		"publications": [
@@ -80,18 +76,6 @@ var obj =
 				"label": "facebook",
 				"protocol": "https"
 			},
-			{
-				"value": "Alisha.Mittal.net/bio",
-				"label": "minibio",
-				"protocol": "https"
-			}
-		],
-				
-		"other": [
-			{
-				"label": "Bitcoin",
-				"value": "12c8eL6HVeNgXPf8dyoymgVahJWqgnc4Gk"
-			}
 		],
 		
 		"qrcode": [
