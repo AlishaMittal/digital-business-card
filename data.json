@@ -34,7 +34,7 @@ var obj =
 				"label": "facetime"
 			},
 			{
-				"value": "alisha.mittal96@gmail.com",
+				"value": "AlishaMittal",
 				"label": "hangouts"
 			},
 			{
@@ -67,12 +67,12 @@ var obj =
 		
 		"publications": [
 			{
-				"value": "Alisha.Mittal.net",
+				"value": "https://www.artworkarchive.com/blog",
 				"label": "blog",
 				"protocol": "https"
 			},
 			{
-				"value": "fb.com/AlishaOnArt",
+				"value": "https://www.facebook.com/groups/artlog",
 				"label": "facebook",
 				"protocol": "https"
 			},
