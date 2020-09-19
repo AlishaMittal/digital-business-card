@@ -9,12 +9,12 @@ var obj =
 	"ganalytics": "UA-629709-5",
 	
 	"name": {
-		"first": "Avi",
-		"last": "Alkalay",
+		"first": "Alisha",
+		"last": "Mittal",
 	},
-	"title": "Data Scientist, Data Engineer, Teacher and Hacker",
-	"company": "CI&T and Digital House",
-	"department": "Data",
+	"title": "College Art, Drama, and Music Teacher",
+	"company": "DigitalVision",
+	"department": "Creative Artist",
 
 	"columns": {
 		"1": ["phone", "publications", "other","mail"],
@@ -24,64 +24,64 @@ var obj =
 	"section": {
 		"phone": [
 			{
-				"value": "+55 (11) 99659-9059",
+				"value": "(+61) 451354290",
 				"label": "mobile",
 				"microformatTag": "mobile",
 				"vcfTag": "mobile" 
 			},
 			{
-				"value": "avibrazilⓐgmail.com",
+				"value": "alisha.mittal96@gmail.com",
 				"label": "facetime"
 			},
 			{
-				"value": "avibrazilⓐgmail.com",
+				"value": "alisha.mittal96@gmail.com",
 				"label": "hangouts"
 			},
 			{
-				"value": "avibrazil",
+				"value": "AlishaMittal",
 				"label": "skype"
 			},
 		],
 
 		"mail": [
 			{
-				"value": "aviⓐciandt.com",
+				"value": "alisha.mittal96@gmail.com",
 				"label": "work"
 			},
 			{
-				"value": "aviⓐunix.sh",
+				"value": "alisha.mittal96@gmail.com",
 				"label": "personal"
 			},
 		],
 		
 		"social": [
 			{
-				"value": "avibrazil",
+				"value": "AlishaMittal",
 				"label": "linkedin"
 			},
 			{
-				"value": "avibrazil",
+				"value": "AlishaMittal",
 				"label": "facebook"
 			},
 			{
-				"value": "avibrazil",
+				"value": "AlishaMittal",
 				"label": "github"
 			}
 		],
 		
 		"publications": [
 			{
-				"value": "Avi.Alkalay.net",
+				"value": "Alisha.Mittal.net",
 				"label": "blog",
 				"protocol": "https"
 			},
 			{
-				"value": "fb.com/AviOnInformationTechnology",
+				"value": "fb.com/AlishaOnArt",
 				"label": "facebook",
 				"protocol": "https"
 			},
 			{
-				"value": "Avi.Alkalay.net/bio",
+				"value": "Alisha.Mittal.net/bio",
 				"label": "minibio",
 				"protocol": "https"
 			}
